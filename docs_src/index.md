@@ -94,6 +94,7 @@ _notebook_build/_HW2-numpy-scipy.ipynb
 discussion_03.md
 using_CRSP_data.md
 _notebook_build/_03_wrds_python_package.ipynb
+_notebook_build/_03_exploring_CRSP_data.ipynb
 _notebook_build/_03_CRSP_market_index.ipynb
 HW3.md
 ```

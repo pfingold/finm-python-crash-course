@@ -242,6 +242,10 @@ notebook_tasks = {
         "file_dep": [],
         "targets": [],
     },
+    "03_exploring_CRSP_data.ipynb": {
+        "file_dep": [],
+        "targets": [],
+    },
     "03_CRSP_market_index.ipynb": {
         "file_dep": [
             "src/calc_CRSP_indices.py",
