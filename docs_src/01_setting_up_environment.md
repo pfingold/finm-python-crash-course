@@ -73,7 +73,7 @@ Let's pause here and make sure that everyone has Anaconda installed. Let's test 
 - Type `jupyter lab` to try out Jupyter Lab. This is a newer interface that is similar to Jupyter notebook but has more features.
 ```
 
-### Common Issues
+### Common Issues {#common-issues}
 
 - *Running `conda` in the terminal gives an error message*: There are two common problems. The first is that `conda` is not in your `PATH`. The second is that you're using Powershell.
   - If `conda` is not in your `PATH`, you can add it by following the directions [here](https://stackoverflow.com/a/44597801/1411791).
@@ -150,7 +150,7 @@ Let's pause here and make sure that everyone has Cursor installed. We'll run a f
 ```
 
 
-## What is Git and GitHub?
+## What is Git and GitHub? {#git}
 
 Git is a distributed version control system that is used to track changes in source code during software development. It is designed to handle everything from small to very large projects with speed and efficiency. GitHub is a website that allows you to store, interact with, and share your Git repositories online. GitHub is a great tool for collaborating with others on software projects and for sharing your code with the world.
 
@@ -209,7 +209,7 @@ import decouple
 ``` 
 
 
-## WRDS: How do I sign up?
+## WRDS: How do I sign up? {#wrds-how-do-i-sign-up}
 
 [![WRDS Logo](./assets/wrds_logo.png)](https://wrds-www.wharton.upenn.edu/)
 

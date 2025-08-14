@@ -85,19 +85,16 @@ _notebook_build/_02_01-Introducing-Pandas-Objects.ipynb
 _notebook_build/_02_02-Data-Indexing-and-Selection.ipynb
 _notebook_build/_02_03-Operations-in-Pandas.ipynb
 _notebook_build/_02_04-Missing-Values.ipynb
-_notebook_build/_02_CRSP_market_index.ipynb
+_notebook_build/_HW2-numpy-scipy.ipynb
 ```
 
 ```{toctree}
 :maxdepth: 1
 :caption: Discussion 3
 discussion_03.md
-_notebook_build/_03_overview_of_pydata_stack.ipynb
-_notebook_build/_03_comparing_plotting_libraries.ipynb
-_notebook_build/_03_Using_Interact.ipynb
-_notebook_build/_03_python_by_example.ipynb
-_notebook_build/_HW2-numpy-scipy.ipynb
-_notebook_build/_03_factor_analysis_demo.ipynb
+using_CRSP_data.md
+_notebook_build/_03_wrds_python_package.ipynb
+_notebook_build/_03_CRSP_market_index.ipynb
 HW3.md
 ```
 
@@ -105,8 +102,11 @@ HW3.md
 :maxdepth: 1
 :caption: Discussion 4️
 discussion_04.md
-using_CRSP_data.md
-_notebook_build/_04_wrds_python_package.ipynb
+_notebook_build/_03_overview_of_pydata_stack.ipynb
+_notebook_build/_03_comparing_plotting_libraries.ipynb
+_notebook_build/_03_Using_Interact.ipynb
+_notebook_build/_03_python_by_example.ipynb
+_notebook_build/_03_factor_analysis_demo.ipynb
 ```
 
 

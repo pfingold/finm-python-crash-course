@@ -214,6 +214,14 @@ notebook_tasks = {
         "file_dep": [],
         "targets": [],
     },
+    "HW2-numpy-scipy.ipynb": {
+        "file_dep": [],
+        "targets": [],
+    },
+    "HW2--with-solutions.ipynb": {
+        "file_dep": [],
+        "targets": [],
+    },
     "03_factor_analysis_demo.ipynb": {
         "file_dep": [],
         "targets": [],
@@ -234,15 +242,7 @@ notebook_tasks = {
         "file_dep": [],
         "targets": [],
     },
-    "HW2-numpy-scipy.ipynb": {
-        "file_dep": [],
-        "targets": [],
-    },
-    "HW2--with-solutions.ipynb": {
-        "file_dep": [],
-        "targets": [],
-    },
-    "02_CRSP_market_index.ipynb": {
+    "03_CRSP_market_index.ipynb": {
         "file_dep": [
             "src/calc_CRSP_indices.py",
             "src/load_CRSP_stock.py",
@@ -252,7 +252,7 @@ notebook_tasks = {
             ],
         "targets": [],
     },
-    "04_wrds_python_package.ipynb": {
+    "03_wrds_python_package.ipynb": {
         "file_dep": [],
         "targets": [],
     },

@@ -18,7 +18,7 @@ index of market returns. We will discuss this in more depth in the last class an
 through this part of the homework together in class next time. However, please attempt to do this on your own first.
 
 For information on the CRSP market index, please see the following guide: 
- - [CRSP Market Returns Indices](./_notebook_build/_04_CRSP_market_index.ipynb)
+ - [CRSP Market Returns Indices](./_notebook_build/_03_CRSP_market_index.ipynb)
 
 **References:**
 

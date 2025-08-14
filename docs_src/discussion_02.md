@@ -20,7 +20,7 @@ extensions within VS Code.
   - [Data Indexing and Selection](./_notebook_build/_02_02-Data-Indexing-and-Selection.ipynb)
   - [Operations in Pandas](./_notebook_build/_02_03-Operations-in-Pandas.ipynb)
   - [Missing Values](./_notebook_build/_02_04-Missing-Values.ipynb)
-- **Hands-On Example with Data in Pandas** Demonstrate Pandas in the context of factor analysis/principal components analysis of a panel of economic and financial time series. [./src/factor_analysis_demo.ipynb](./_notebook_build/_02_factor_analysis_demo.ipynb)
+- **Hands-On Example with Data in Pandas** Demonstrate Pandas in the context of factor analysis/principal components analysis of a panel of economic and financial time series. [Factor Analysis Demo](./_notebook_build/_03_factor_analysis_demo.ipynb)
 - **Individual Help with Setup.** Save 30-45 minutes at the end to help students individually with their setup.
 
 ## Homework

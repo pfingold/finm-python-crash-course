@@ -15,7 +15,7 @@
     - Use the script to save a figure.
     - Write a shell script to run several Python scripts.
 - Discussion of writing our own modules
-  - Start with a review of functions in Python: review the ["Functions"](https://datascience.quantecon.org/python_fundamentals/functions.html) chapter found here: [./src/02_functions.ipynb](./_notebook_build/_02_functions.ipynb.ipynb)
+  - Start with a review of functions in Python: review the ["Functions"](https://datascience.quantecon.org/python_fundamentals/functions.html) chapter found here: [Python by Example](./_notebook_build/_03_python_by_example.ipynb)
   - Demonstrate my own, very simple module that I use, called `config`
 - Write an end-to-end automatically-run program using a conda environment, the command line, and Python's `doit`. This should download data on it's own, store it somewhere as a cached data set, run the analysis, generate the charts, and insert the charts into a PDF document (do this using a Jupyter notebook).
   - Do this by looking at the structure of my `blank-project` repository.

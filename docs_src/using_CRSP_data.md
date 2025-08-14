@@ -1,4 +1,4 @@
-# 4.1 Using CRSP Data
+# 3.1 Using CRSP Data
 
 In this discussion, we will learn how to use the CRSP dataset. The CRSP dataset is a comprehensive dataset that contains information on stock prices, returns, and other financial information. This dataset is widely used in academic research and is a valuable resource for anyone interested in studying financial markets.
 
