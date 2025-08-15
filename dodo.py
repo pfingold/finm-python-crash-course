@@ -234,10 +234,10 @@ notebook_tasks = {
         "file_dep": [],
         "targets": [],
     },
-    "03_Using_Interact.ipynb": {
-        "file_dep": [],
-        "targets": [],
-    },
+    # "03_Using_Interact.ipynb": {
+    #     "file_dep": [],
+    #     "targets": [],
+    # },
     "03_comparing_plotting_libraries.ipynb": {
         "file_dep": [],
         "targets": [],
