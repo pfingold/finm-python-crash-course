@@ -34,6 +34,7 @@ pandas-datareader>=0.10.0
 pandas-market-calendars>=4.4.0
 plotly>=5.20.0
 plotnine>=0.13.2
+pooch
 polars>=0.20.16
 pytest>=8.1.1
 python-decouple>=3.8
